@@ -16,6 +16,4 @@ public abstract class Pessoa {
     public void setDataNasc(String dataNasc) {
         this.dataNasc = dataNasc;
     }
-
-    
 }

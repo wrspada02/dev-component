@@ -1,4 +1,8 @@
+package br.ifsp.bra.util;
+
 import br.ifsp.bra.servidor.Aluno;
+import br.ifsp.bra.servidor.Professor;
+import br.ifsp.bra.servidor.Tecnico;
 
 public class ImpressoraDadosServidor {
     public void imprime(Aluno aluno) {

@@ -1,4 +1,4 @@
-import br.ifsp.bra.servidor.Pessoa;
+package br.ifsp.bra.servidor;
 
 public class Tecnico extends Pessoa {
     private String profissao;

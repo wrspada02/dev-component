@@ -1,4 +1,4 @@
-import br.ifsp.bra.servidor.Pessoa;
+package br.ifsp.bra.servidor;
 
 public class Professor extends Pessoa {
     private String cod;
