@@ -1,4 +1,4 @@
-package br.edu.ifsp.bra;
+package br.edu.ifsp.bra.ex01;
 
 interface IModem extends IHandleConnection, DataCommunication {}
 

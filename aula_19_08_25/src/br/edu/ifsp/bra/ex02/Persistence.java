@@ -1,4 +1,4 @@
-package br.edu.ifsp.bra.ex02;
+ackage br.edu.ifsp.bra.ex02;
 
 public class Persistence {
     public void storeVideo() {

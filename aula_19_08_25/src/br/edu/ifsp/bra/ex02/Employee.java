@@ -1,4 +1,4 @@
-import br.edu.ifsp.bra.PersistenceFacade;
+import br.edu.ifsp.bra.ex02.PersistenceFacade;
 
 public class Employee {
     private PersistenceFacade persistence;
